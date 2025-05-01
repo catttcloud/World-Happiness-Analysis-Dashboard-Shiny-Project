@@ -126,7 +126,7 @@ _Stacked bar chart comparing the contribution of each factor._
 ![Data Table Preview](screenshots/4datasource-1.png)  
 _View full dataset with filter and sort options._
 
-
+![Data Source Info](screenshots/4datasource-2.png)  
 _Information on data origin and download options._
 
 
