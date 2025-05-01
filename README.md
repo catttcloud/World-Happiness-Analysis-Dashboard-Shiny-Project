@@ -94,7 +94,7 @@ _Search a country to explore its individual happiness scores._
 _Factor breakdown (GDP, social support, freedom, etc.) for selected country._
 
 ![Ladder Score Trend Line](screenshots/2search-3.png)  
-_Time-series line chart showing happiness score trends._
+_Nine time trend charts showing ladder scores, log GDP per Capital, social support, healthy life expectancy, freedom to make life choices, generosity, pereptions of corruption, positive affect, negative affect._
 
 ---
 
