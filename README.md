@@ -1,11 +1,11 @@
 
-# 🌍 World Happiness Analysis Dashboard – Shiny Project
+# World Happiness Analysis Dashboard – Shiny Project
 
 This project involves creating a comprehensive **R Shiny dashboard** to analyze global happiness data based on the World Happiness Report. The dashboard allows users to interactively explore happiness trends, identify contributing factors, and compare country-level well-being metrics from 2008 to 2023.
 
 ---
 
-## 📊 Overview
+## Overview
 
 The goal is to visualize and understand patterns behind happiness scores worldwide, allowing users to explore variations by country, time, and specific influencing factors such as GDP, health, social support, and more.
 
@@ -13,7 +13,7 @@ The dashboard is structured with four main tabs: a global overview, a detailed c
 
 ---
 
-## 📈 Key Visualizations
+## Key Visualizations
 
 - **Global Happiness Map (2023)** – A choropleth map showing happiness scores by country.
 - **Top 10 Happiest Countries** – A bar chart highlighting the highest-ranked countries.
@@ -24,7 +24,7 @@ The dashboard is structured with four main tabs: a global overview, a detailed c
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 The purpose of this dashboard is to provide a powerful data-driven interface for exploring and comparing happiness levels across the globe. It can be used by:
 
@@ -34,7 +34,7 @@ The purpose of this dashboard is to provide a powerful data-driven interface for
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Framework**: R Shiny, shinydashboard, shinyWidgets
 - **Visualization**: ggplot2, plotly, leaflet
@@ -43,7 +43,7 @@ The purpose of this dashboard is to provide a powerful data-driven interface for
 
 ---
 
-## 📁 Data Sources
+## Data Sources
 
 Data is sourced from the [World Happiness Report 2024](https://worldhappiness.report/data/):
 
@@ -61,7 +61,7 @@ Each dataset includes scores for Ladder (overall happiness) and factors like:
 
 ---
 
-## 🧭 Interactive Features
+## Interactive Features
 
 - Country selector and multi-country comparison
 - Pie charts and line charts with hover tooltips
@@ -71,7 +71,7 @@ Each dataset includes scores for Ladder (overall happiness) and factors like:
 
 ---
 
-## 🖥️ Installation Instructions
+## Installation Instructions
 
 ### Prerequisites
 
@@ -100,26 +100,8 @@ shiny::runApp()
 
 ---
 
-## 📦 Project Structure
-
-```
-World-Happiness-Analysis-Dashboard-Shiny-Project/
-├── global.R
-├── ui.R
-├── Data_by_Country.csv
-├── Data_by_Year.csv
-├── Design_Summary.pdf
-└── README.md
-```
-
----
-
-## 📚 Conclusion
+## Conclusion
 
 This project demonstrates how interactive dashboards can bring data to life and help derive actionable insights. The **World Happiness Analysis Dashboard** empowers users to explore well-being globally, understand trends over time, and make data-informed comparisons between countries.
 
 ---
-
-**Author**: Yun Lin (1239978)  
-**Institution**: RMIT University  
-**Year**: 2025
