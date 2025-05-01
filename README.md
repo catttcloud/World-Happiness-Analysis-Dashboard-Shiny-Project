@@ -71,6 +71,19 @@ Each dataset includes scores for Ladder (overall happiness) and factors like:
 
 ---
 
+## Design Summary
+
+For a detailed explanation of the user interface layout, page structure, and visual design decisions, please refer to the [Design Summary](Design Summary.pdf).
+
+This document outlines the dashboard’s:
+
+- Page layout (Home, Search, Comparison, About)
+- Design principles (consistency, interactivity, clarity)
+- Visualization choices (map, pie chart, bar chart, line charts)
+- Data source and scope
+
+> 📄 [View Design_Summary.pdf](Design Summary.pdf)
+
 ## Screenshots
 
 Below are some key screenshots from the dashboard:
