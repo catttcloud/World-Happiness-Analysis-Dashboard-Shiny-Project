@@ -71,6 +71,52 @@ Each dataset includes scores for Ladder (overall happiness) and factors like:
 
 ---
 
+## Screenshots
+
+Below are some key screenshots from the dashboard:
+
+### Global Stats Page
+
+![Global Happiness Map](screenshots/1global_stats-1.png)  
+_Interactive map showing global ladder scores in 2023._
+
+![2023 Stats Summary + Top 10 Countries](screenshots/1global_stats-2.png)  
+_Summary of global stats and top 10 happiest countries._
+
+---
+
+### Country Search Page
+
+![Search Country Dropdown + Score Boxes](screenshots/2search-1.png)  
+_Search a country to explore its individual happiness scores._
+
+![Happiness Factor Pie Chart](screenshots/2search-2.png)  
+_Factor breakdown (GDP, social support, freedom, etc.) for selected country._
+
+![Ladder Score Trend Line](screenshots/2search-3.png)  
+_Time-series line chart showing happiness score trends._
+
+---
+
+### Country Comparison Page
+
+![Multi-Country Selection](screenshots/3comparison-1.png)  
+_Select multiple countries to compare happiness factors._
+
+![Factor Breakdown Bar Chart](screenshots/3comparison-2.png)  
+_Stacked bar chart comparing the contribution of each factor._
+
+---
+
+### Data & Source Page
+
+![Data Table Preview](screenshots/4datasource-1.png)  
+_View full dataset with filter and sort options._
+
+![Data Source Info](screenshots/4datasource-2.png)  
+_Information on data origin and download options._
+
+
 ## Installation Instructions
 
 ### Prerequisites
